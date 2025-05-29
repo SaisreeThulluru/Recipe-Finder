@@ -44,9 +44,11 @@ Replace the image path in this line with the correct location of your background
 bg_image = Image.open(r"your/path/to/background.jpg")
 
 ▶️ How to Run
+
 python recipe_app.py
 
-How to Use
+✏️How to Use
+
 1.Launch the app (it will open in a full-screen window).
 
 2.Enter a list of ingredients, separated by commas (e.g., egg, tomato, onion).
