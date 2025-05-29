@@ -39,17 +39,15 @@ Go to Spoonacular and sign up.
 Copy your API key and paste it in the code:
 API_KEY = 'YOUR_API_KEY_HERE'
 
-### 4. Set Your Background Image Path
+### 4. Set Your Background Image Path How to Run
 Replace the image path in this line with the correct location of your background image:
 
 bg_image = Image.open(r"your/path/to/background.jpg")
 
-▶️ How to Run
-
+### ▶️ How to Run 
 python recipe_app.py
 
-✏️How to Use
-
+### ✏️ How to Use 
 1.Launch the app (it will open in a full-screen window).
 
 2.Enter a list of ingredients, separated by commas (e.g., egg, tomato, onion).
