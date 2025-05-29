@@ -54,9 +54,6 @@ How to Use
 3.Click the Search button.
 
 4.The app will:
-
-       Show a recipe title
-
-       Display an image of the recipe
-
-       Include a clickable link to the full recipe page
+Show a recipe title
+Display an image of the recipe
+Include a clickable link to the full recipe page
