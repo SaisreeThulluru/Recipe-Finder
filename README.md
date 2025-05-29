@@ -24,10 +24,9 @@ A beautiful desktop app built with **Python and Tkinter** that helps users disco
 
 ---
 
-## 📦 Installation & Setup
+### 📦 Installation & Setup
 
 ### 1. Clone this Repository
-```bash
 git clone https://github.com/SaisreeThulluru/recipe-finder-app.git
 cd recipe-finder-app
 
