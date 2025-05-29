@@ -41,6 +41,7 @@ API_KEY = 'YOUR_API_KEY_HERE'
 
 ### 4. Set Your Background Image Path
 Replace the image path in this line with the correct location of your background image:
+
 bg_image = Image.open(r"your/path/to/background.jpg")
 
 ▶️ How to Run
